@@ -1,0 +1,4 @@
+﻿__pycache__/
+*.pyc
+astar_log.txt
+hex_path_solution.png
