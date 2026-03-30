@@ -1,6 +1,7 @@
 ﻿# Group 40 Hex Path Solving
 
 Python visualization and path-solving project for a hex-grid treasure collection problem.
+![path_animation](https://github.com/user-attachments/assets/d966e89f-b499-4d18-8490-f5462cdab861)
 
 ## Overview
 
